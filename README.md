@@ -7,3 +7,6 @@
 6. Creative Designing in Power BI
 7. Deploy and Maintain Power BI Assets and Capstone project
 8. Microsoft PL-300 Exam Preparation and Practice
+
+![Screenshot (442)](https://github.com/user-attachments/assets/81d8da60-0b97-483c-8159-eda3e04d92da)
+
